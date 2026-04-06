@@ -11,7 +11,7 @@
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
@@ -24,9 +24,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-{mairatorresdj@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mairatorresdj/)](https://www.linkedin.com/in/mairatorresdj/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+[![Linkedin: Ellen](https://img.shields.io/badge/-mairatorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mairatorresdj/)](https://www.linkedin.com/in/mairatorresdj/)
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
+<br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
