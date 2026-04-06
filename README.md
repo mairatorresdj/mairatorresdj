@@ -23,9 +23,9 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{mairatorresdj@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
+![Gmail Badge](https://img.shields.io/badge/-mairatorresdj-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{mairatorresdj@gmail.com})
 [![Linkedin: Ellen](https://img.shields.io/badge/-mairatorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mairatorresdj/)](https://www.linkedin.com/in/mairatorresdj/)
 
-<br><br>
+<br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
