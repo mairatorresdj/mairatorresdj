@@ -3,14 +3,10 @@
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação 
-- 🌱 Apaixonado por Tecnologia
+- 🌱 Apaixonada por Tecnologia
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas  / UNINTER
 
-## 🚀 Habilidades
-
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
-
-## 👨‍💻 Linguagens: 
+## 👨‍💻 Stack: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
