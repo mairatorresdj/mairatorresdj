@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação 
+- 💻 Desenvolvedora Full-Stack
 - 🌱 Apaixonada por Tecnologia
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas  / UNINTER
 
