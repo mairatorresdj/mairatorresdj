@@ -21,7 +21,3 @@
 
 ![Gmail Badge](https://img.shields.io/badge/-mairatorresdj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{mairatorresdj@gmail.com)
 [![Linkedin: Maira](https://img.shields.io/badge/-mairatorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mairatorresdj/)](https://www.linkedin.com/in/mairatorresdj/)
-
-<br>
-
-Fique à vo
