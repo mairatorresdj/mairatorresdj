@@ -7,7 +7,7 @@
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas  / UNINTER
 
 ## 👨‍💻 Stack: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,flask,java)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
