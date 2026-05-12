@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou Maíra Torres
+# 👋 Fala ai, eu me chamo Maíra Torres
 
 ## 💼 Perfil Profissional
 
 - 💻 Desenvolvedora Full-Stack
 - 🚀 Em busca de oportunidades na área
-- 🎓 Cursando Analise e Desenvolvimento de Sistemas  / UNINTER
+- 🎓 Cursando Analise e Desenvolvimento de Sistemas / UNINTER
 
 ## 👨‍💻 Stack: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,flask,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,flask,java)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
@@ -20,4 +20,4 @@
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-mairatorresdj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{mairatorresdj@gmail.com)
-[![Linkedin: Maira](https://img.shields.io/badge/-mairatorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mairatorresdj/)](https://www.linkedin.com/in/mairatorresdj/)
+![Linkedin: Maira](https://img.shields.io/badge/-mairatorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mairatorresdj/)](https://www.linkedin.com/in/mairatorresdj/)
